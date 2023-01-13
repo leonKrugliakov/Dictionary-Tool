@@ -1,0 +1,24 @@
+*{
+  background-color: #121212;
+  color: white;
+  width:300px;
+}
+
+#output{
+  display:block;
+  margin-right:10px;
+}
+
+p{
+  font-weight:600;
+}
+
+#output p{
+  font-size:15px;
+}
+
+#output span{
+  font-size:18px;
+  text-transform: capitalize;
+  display:inline-block;
+}
